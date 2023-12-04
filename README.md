@@ -1,7 +1,9 @@
-# Portfolio-Django
+# Blog-Django
 
-Este é um projeto de desenvolvimento de um site de portfólio pessoal feito com Django.
+Este é um projeto de um blog, contendo postagens e um 'feed' onde fica organizado as postagens. Além de ter configurado o django-admin.
 
-## Descrição
+## Video do projeto funcionando:
 
-O projeto está em desenvolvimento e não está em sua fase final, tudo que está aqui pode e muito provavelmente será alterado.
+
+https://github.com/FerrariSnow/blog-django/assets/80928188/d0767e5b-99b9-4585-b368-ad097469d1ae
+
